@@ -1,0 +1,267 @@
+<?xml version="1.0"?>
+<!DOCTYPE gxl SYSTEM "http://www.gupro.de/GXL/gxl-1.0.dtd">
+<gxl>
+    <graph id="Untitled Document-1" edgeids="false" edgemode="undirected">
+        <node id="_1">
+            <attr name="chem">
+                <int>7</int>
+            </attr>
+            <attr name="x">
+                <double>1.0093526123041341</double>
+            </attr>
+            <attr name="y">
+                <double>3.8275198623877467</double>
+            </attr>
+        </node>
+        <node id="_2">
+            <attr name="chem">
+                <int>6</int>
+            </attr>
+            <attr name="x">
+                <double>-0.85657862755854697</double>
+            </attr>
+            <attr name="y">
+                <double>8.6317203807497496</double>
+            </attr>
+        </node>
+        <node id="_3">
+            <attr name="chem">
+                <int>6</int>
+            </attr>
+            <attr name="x">
+                <double>5.1158010162392555</double>
+            </attr>
+            <attr name="y">
+                <double>8.831722674076449</double>
+            </attr>
+        </node>
+        <node id="_4">
+            <attr name="chem">
+                <int>6</int>
+            </attr>
+            <attr name="x">
+                <double>8.8491639281898582</double>
+            </attr>
+            <attr name="y">
+                <double>3.9228638204270196</double>
+            </attr>
+        </node>
+        <node id="_5">
+            <attr name="chem">
+                <int>6</int>
+            </attr>
+            <attr name="x">
+                <double>13.408529318630865</double>
+            </attr>
+            <attr name="y">
+                <double>-0.12278517698095585</double>
+            </attr>
+        </node>
+        <node id="_6">
+            <attr name="chem">
+                <int>6</int>
+            </attr>
+            <attr name="x">
+                <double>14.382164249503878</double>
+            </attr>
+            <attr name="y">
+                <double>-6.0609076053286213</double>
+            </attr>
+        </node>
+        <node id="_7">
+            <attr name="chem">
+                <int>6</int>
+            </attr>
+            <attr name="x">
+                <double>9.7423939246199271</double>
+            </attr>
+            <attr name="y">
+                <double>-8.9457620700771781</double>
+            </attr>
+        </node>
+        <node id="_8">
+            <attr name="chem">
+                <int>6</int>
+            </attr>
+            <attr name="x">
+                <double>5.5279886032073087</double>
+            </attr>
+            <attr name="y">
+                <double>-6.1083362737714655</double>
+            </attr>
+        </node>
+        <node id="_9">
+            <attr name="chem">
+                <int>6</int>
+            </attr>
+            <attr name="x">
+                <double>4.8298230609808712</double>
+            </attr>
+            <attr name="y">
+                <double>-0.14888288372794234</double>
+            </attr>
+        </node>
+        <node id="_10">
+            <attr name="chem">
+                <int>6</int>
+            </attr>
+            <attr name="x">
+                <double>-7.0912608555144505</double>
+            </attr>
+            <attr name="y">
+                <double>8.2925434887333118</double>
+            </attr>
+        </node>
+        <node id="_11">
+            <attr name="chem">
+                <int>7</int>
+            </attr>
+            <attr name="x">
+                <double>-12.567264066289798</double>
+            </attr>
+            <attr name="y">
+                <double>5.40321984360508</double>
+            </attr>
+        </node>
+        <node id="_12">
+            <attr name="chem">
+                <int>6</int>
+            </attr>
+            <attr name="x">
+                <double>-14.510323672435273</double>
+            </attr>
+            <attr name="y">
+                <double>-0.46273166226022966</double>
+            </attr>
+        </node>
+        <node id="_13">
+            <attr name="chem">
+                <int>6</int>
+            </attr>
+            <attr name="x">
+                <double>-15.155104901450706</double>
+            </attr>
+            <attr name="y">
+                <double>-6.0353153046841026</double>
+            </attr>
+        </node>
+        <node id="_14">
+            <attr name="chem">
+                <int>6</int>
+            </attr>
+            <attr name="x">
+                <double>-14.871475951951515</double>
+            </attr>
+            <attr name="y">
+                <double>-10.795729760793121</double>
+            </attr>
+        </node>
+        <node id="_15">
+            <attr name="chem">
+                <int>6</int>
+            </attr>
+            <attr name="x">
+                <double>-15.975273952694476</double>
+            </attr>
+            <attr name="y">
+                <double>8.9357467901075918</double>
+            </attr>
+        </node>
+        <node id="_16">
+            <attr name="chem">
+                <int>8</int>
+            </attr>
+            <attr name="x">
+                <double>18.154302990714125</double>
+            </attr>
+            <attr name="y">
+                <double>-9.1651300092905359</double>
+            </attr>
+        </node>
+        <edge from="_1" to="_2">
+            <attr name="valence">
+                <int>1</int>
+            </attr>
+        </edge>
+        <edge from="_2" to="_3">
+            <attr name="valence">
+                <int>1</int>
+            </attr>
+        </edge>
+        <edge from="_3" to="_4">
+            <attr name="valence">
+                <int>1</int>
+            </attr>
+        </edge>
+        <edge from="_4" to="_5">
+            <attr name="valence">
+                <int>1</int>
+            </attr>
+        </edge>
+        <edge from="_5" to="_6">
+            <attr name="valence">
+                <int>1</int>
+            </attr>
+        </edge>
+        <edge from="_6" to="_7">
+            <attr name="valence">
+                <int>1</int>
+            </attr>
+        </edge>
+        <edge from="_7" to="_8">
+            <attr name="valence">
+                <int>1</int>
+            </attr>
+        </edge>
+        <edge from="_8" to="_9">
+            <attr name="valence">
+                <int>1</int>
+            </attr>
+        </edge>
+        <edge from="_1" to="_9">
+            <attr name="valence">
+                <int>1</int>
+            </attr>
+        </edge>
+        <edge from="_4" to="_9">
+            <attr name="valence">
+                <int>0</int>
+            </attr>
+        </edge>
+        <edge from="_2" to="_10">
+            <attr name="valence">
+                <int>1</int>
+            </attr>
+        </edge>
+        <edge from="_10" to="_11">
+            <attr name="valence">
+                <int>1</int>
+            </attr>
+        </edge>
+        <edge from="_12" to="_13">
+            <attr name="valence">
+                <int>1</int>
+            </attr>
+        </edge>
+        <edge from="_13" to="_14">
+            <attr name="valence">
+                <int>3</int>
+            </attr>
+        </edge>
+        <edge from="_11" to="_12">
+            <attr name="valence">
+                <int>1</int>
+            </attr>
+        </edge>
+        <edge from="_11" to="_15">
+            <attr name="valence">
+                <int>1</int>
+            </attr>
+        </edge>
+        <edge from="_6" to="_16">
+            <attr name="valence">
+                <int>1</int>
+            </attr>
+        </edge>
+    </graph>
+</gxl>

@@ -1,0 +1,964 @@
+<?xml version="1.0"?>
+<gxl>
+    <graph id="pdb1lgr" label="6" edgeids="true" edgemode="undirected">
+        <node id="1">
+            <attr name="type">
+                <int>0</int>
+            </attr>
+            <attr name="aaLength">
+                <int>11</int>
+            </attr>
+            <attr name="sequence">
+                <int>SAEHVLTMLNE</int>
+            </attr>
+            <attr name="x">
+                <double>-4.6204276713540633</double>
+            </attr>
+            <attr name="y">
+                <double>19.42774827785167</double>
+            </attr>
+        </node>
+        <node id="2">
+            <attr name="type">
+                <int>0</int>
+            </attr>
+            <attr name="aaLength">
+                <int>15</int>
+            </attr>
+            <attr name="sequence">
+                <int>DPRSIAKRAEDYLRA</int>
+            </attr>
+            <attr name="x">
+                <double>13.987281005142497</double>
+            </attr>
+            <attr name="y">
+                <double>8.7842241034765927</double>
+            </attr>
+        </node>
+        <node id="3">
+            <attr name="type">
+                <int>0</int>
+            </attr>
+            <attr name="aaLength">
+                <int>14</int>
+            </attr>
+            <attr name="sequence">
+                <int>AQDIRSEMCLVMEQ</int>
+            </attr>
+            <attr name="x">
+                <double>14.856680943693528</double>
+            </attr>
+            <attr name="y">
+                <double>-7.6570385163560024</double>
+            </attr>
+        </node>
+        <node id="4">
+            <attr name="type">
+                <int>0</int>
+            </attr>
+            <attr name="aaLength">
+                <int>23</int>
+            </attr>
+            <attr name="sequence">
+                <int>TMTKKADEIQIYKYVVHNVAHRF</int>
+            </attr>
+            <attr name="x">
+                <double>10.305647704362187</double>
+            </attr>
+            <attr name="y">
+                <double>-12.705308596093655</double>
+            </attr>
+        </node>
+        <node id="5">
+            <attr name="type">
+                <int>0</int>
+            </attr>
+            <attr name="aaLength">
+                <int>22</int>
+            </attr>
+            <attr name="sequence">
+                <int>SEQALYYIGGVIKHAKAINALA</int>
+            </attr>
+            <attr name="x">
+                <double>-4.4324240917015016</double>
+            </attr>
+            <attr name="y">
+                <double>-17.010830706554916</double>
+            </attr>
+        </node>
+        <node id="6">
+            <attr name="type">
+                <int>0</int>
+            </attr>
+            <attr name="aaLength">
+                <int>5</int>
+            </attr>
+            <attr name="sequence">
+                <int>NSYKR</int>
+            </attr>
+            <attr name="x">
+                <double>-5.2902572806324351</double>
+            </attr>
+            <attr name="y">
+                <double>-12.990396345577722</double>
+            </attr>
+        </node>
+        <node id="7">
+            <attr name="type">
+                <int>0</int>
+            </attr>
+            <attr name="aaLength">
+                <int>18</int>
+            </attr>
+            <attr name="sequence">
+                <int>NPYLCFAALLMAGLDGIK</int>
+            </attr>
+            <attr name="x">
+                <double>-17.111132407497799</double>
+            </attr>
+            <attr name="y">
+                <double>-7.2572541718459034</double>
+            </attr>
+        </node>
+        <node id="8">
+            <attr name="type">
+                <int>0</int>
+            </attr>
+            <attr name="aaLength">
+                <int>17</int>
+            </attr>
+            <attr name="sequence">
+                <int>SLEEALNALDLDREFLK</int>
+            </attr>
+            <attr name="x">
+                <double>-18.937564312324806</double>
+            </attr>
+            <attr name="y">
+                <double>-1.3654811101759583</double>
+            </attr>
+        </node>
+        <node id="9">
+            <attr name="type">
+                <int>0</int>
+            </attr>
+            <attr name="aaLength">
+                <int>21</int>
+            </attr>
+            <attr name="sequence">
+                <int>TDEAIDAYIALRREEDDRVRM</int>
+            </attr>
+            <attr name="x">
+                <double>-22.70580253730823</double>
+            </attr>
+            <attr name="y">
+                <double>-5.0235682547174569</double>
+            </attr>
+        </node>
+        <node id="10">
+            <attr name="type">
+                <int>0</int>
+            </attr>
+            <attr name="aaLength">
+                <int>8</int>
+            </attr>
+            <attr name="sequence">
+                <int>HPVEFELY</int>
+            </attr>
+            <attr name="x">
+                <double>-22.425771291275119</double>
+            </attr>
+            <attr name="y">
+                <double>-1.4691023993388905</double>
+            </attr>
+        </node>
+        <node id="11">
+            <attr name="type">
+                <int>1</int>
+            </attr>
+            <attr name="aaLength">
+                <int>7</int>
+            </attr>
+            <attr name="sequence">
+                <int>KFVDLRF</int>
+            </attr>
+            <attr name="x">
+                <double>-4.3956512766622726</double>
+            </attr>
+            <attr name="y">
+                <double>23.187702020656914</double>
+            </attr>
+        </node>
+        <node id="12">
+            <attr name="type">
+                <int>1</int>
+            </attr>
+            <attr name="aaLength">
+                <int>7</int>
+            </attr>
+            <attr name="sequence">
+                <int>KEQHVTI</int>
+            </attr>
+            <attr name="x">
+                <double>-0.20427129522897927</double>
+            </attr>
+            <attr name="y">
+                <double>22.878612191220078</double>
+            </attr>
+        </node>
+        <node id="13">
+            <attr name="type">
+                <int>1</int>
+            </attr>
+            <attr name="aaLength">
+                <int>4</int>
+            </attr>
+            <attr name="sequence">
+                <int>GKMF</int>
+            </attr>
+            <attr name="x">
+                <double>0.89419544665849549</double>
+            </attr>
+            <attr name="y">
+                <double>18.818592627931412</double>
+            </attr>
+        </node>
+        <node id="14">
+            <attr name="type">
+                <int>1</int>
+            </attr>
+            <attr name="aaLength">
+                <int>5</int>
+            </attr>
+            <attr name="sequence">
+                <int>DMVLM</int>
+            </attr>
+            <attr name="x">
+                <double>5.2445640867316907</double>
+            </attr>
+            <attr name="y">
+                <double>20.478176636082114</double>
+            </attr>
+        </node>
+        <node id="15">
+            <attr name="type">
+                <int>1</int>
+            </attr>
+            <attr name="aaLength">
+                <int>9</int>
+            </attr>
+            <attr name="sequence">
+                <int>STLIIRCDI</int>
+            </attr>
+            <attr name="x">
+                <double>7.7332709647213811</double>
+            </attr>
+            <attr name="y">
+                <double>15.164623895770619</double>
+            </attr>
+        </node>
+        <node id="16">
+            <attr name="type">
+                <int>1</int>
+            </attr>
+            <attr name="aaLength">
+                <int>13</int>
+            </attr>
+            <attr name="sequence">
+                <int>DTVLFGPEPEFFL</int>
+            </attr>
+            <attr name="x">
+                <double>16.692285661638564</double>
+            </attr>
+            <attr name="y">
+                <double>5.6810017001833675</double>
+            </attr>
+        </node>
+        <node id="17">
+            <attr name="type">
+                <int>1</int>
+            </attr>
+            <attr name="aaLength">
+                <int>9</int>
+            </attr>
+            <attr name="sequence">
+                <int>DDIRFGASI</int>
+            </attr>
+            <attr name="x">
+                <double>19.784925441441636</double>
+            </attr>
+            <attr name="y">
+                <double>6.6355147978365068</double>
+            </attr>
+        </node>
+        <node id="18">
+            <attr name="type">
+                <int>1</int>
+            </attr>
+            <attr name="aaLength">
+                <int>7</int>
+            </attr>
+            <attr name="sequence">
+                <int>SGSHVAI</int>
+            </attr>
+            <attr name="x">
+                <double>16.346019152151136</double>
+            </attr>
+            <attr name="y">
+                <double>1.5093865273926916</double>
+            </attr>
+        </node>
+        <node id="19">
+            <attr name="type">
+                <int>1</int>
+            </attr>
+            <attr name="aaLength">
+                <int>6</int>
+            </attr>
+            <attr name="sequence">
+                <int>VVEAHH</int>
+            </attr>
+            <attr name="x">
+                <double>16.689756144689348</double>
+            </attr>
+            <attr name="y">
+                <double>-11.906050552597675</double>
+            </attr>
+        </node>
+        <node id="20">
+            <attr name="type">
+                <int>1</int>
+            </attr>
+            <attr name="aaLength">
+                <int>6</int>
+            </attr>
+            <attr name="sequence">
+                <int>GQNEVA</int>
+            </attr>
+            <attr name="x">
+                <double>14.612423290444099</double>
+            </attr>
+            <attr name="y">
+                <double>-14.23221659264496</double>
+            </attr>
+        </node>
+        <node id="21">
+            <attr name="type">
+                <int>1</int>
+            </attr>
+            <attr name="aaLength">
+                <int>9</int>
+            </attr>
+            <attr name="sequence">
+                <int>GMHCHMSLA</int>
+            </attr>
+            <attr name="x">
+                <double>1.6694847569180373</double>
+            </attr>
+            <attr name="y">
+                <double>-14.842754860812247</double>
+            </attr>
+        </node>
+        <node id="22">
+            <attr name="type">
+                <int>1</int>
+            </attr>
+            <attr name="aaLength">
+                <int>5</int>
+            </attr>
+            <attr name="sequence">
+                <int>VMLAY</int>
+            </attr>
+            <attr name="x">
+                <double>-11.120602524825474</double>
+            </attr>
+            <attr name="y">
+                <double>-13.317916218232963</double>
+            </attr>
+        </node>
+        <node id="23">
+            <attr name="type">
+                <int>1</int>
+            </attr>
+            <attr name="aaLength">
+                <int>5</int>
+            </attr>
+            <attr name="sequence">
+                <int>SASIR</int>
+            </attr>
+            <attr name="x">
+                <double>-11.678496581173663</double>
+            </attr>
+            <attr name="y">
+                <double>-9.7871140894591946</double>
+            </attr>
+        </node>
+        <node id="24">
+            <attr name="type">
+                <int>1</int>
+            </attr>
+            <attr name="aaLength">
+                <int>4</int>
+            </attr>
+            <attr name="sequence">
+                <int>RIEV</int>
+            </attr>
+            <attr name="x">
+                <double>-16.004472415596389</double>
+            </attr>
+            <attr name="y">
+                <double>-12.584958115379482</double>
+            </attr>
+        </node>
+        <edge from="1" to="11">
+            <attr name="frequency">
+                <int>1</int>
+            </attr>
+            <attr name="type0">
+                <double>1</double>
+            </attr>
+            <attr name="distance0">
+                <double>14.0</double>
+            </attr>
+        </edge>
+        <edge from="4" to="20">
+            <attr name="frequency">
+                <int>1</int>
+            </attr>
+            <attr name="type0">
+                <double>1</double>
+            </attr>
+            <attr name="distance0">
+                <double>10.0</double>
+            </attr>
+        </edge>
+        <edge from="5" to="21">
+            <attr name="frequency">
+                <int>1</int>
+            </attr>
+            <attr name="type0">
+                <double>1</double>
+            </attr>
+            <attr name="distance0">
+                <double>24.0</double>
+            </attr>
+        </edge>
+        <edge from="7" to="24">
+            <attr name="frequency">
+                <int>1</int>
+            </attr>
+            <attr name="type0">
+                <double>1</double>
+            </attr>
+            <attr name="distance0">
+                <double>11.0</double>
+            </attr>
+        </edge>
+        <edge from="10" to="9">
+            <attr name="frequency">
+                <int>1</int>
+            </attr>
+            <attr name="type0">
+                <double>1</double>
+            </attr>
+            <attr name="distance0">
+                <double>23.0</double>
+            </attr>
+        </edge>
+        <edge from="15" to="14">
+            <attr name="frequency">
+                <int>1</int>
+            </attr>
+            <attr name="type0">
+                <double>1</double>
+            </attr>
+            <attr name="distance0">
+                <double>19.0</double>
+            </attr>
+        </edge>
+        <edge from="1" to="12">
+            <attr name="frequency">
+                <int>1</int>
+            </attr>
+            <attr name="type0">
+                <double>2</double>
+            </attr>
+            <attr name="distance0">
+                <double>26.0</double>
+            </attr>
+        </edge>
+        <edge from="2" to="15">
+            <attr name="frequency">
+                <int>1</int>
+            </attr>
+            <attr name="type0">
+                <double>2</double>
+            </attr>
+            <attr name="distance0">
+                <double>20.0</double>
+            </attr>
+        </edge>
+        <edge from="3" to="20">
+            <attr name="frequency">
+                <int>1</int>
+            </attr>
+            <attr name="type0">
+                <double>2</double>
+            </attr>
+            <attr name="distance0">
+                <double>29.0</double>
+            </attr>
+        </edge>
+        <edge from="4" to="19">
+            <attr name="frequency">
+                <int>1</int>
+            </attr>
+            <attr name="type0">
+                <double>2</double>
+            </attr>
+            <attr name="distance0">
+                <double>22.0</double>
+            </attr>
+        </edge>
+        <edge from="6" to="23">
+            <attr name="frequency">
+                <int>1</int>
+            </attr>
+            <attr name="type0">
+                <double>2</double>
+            </attr>
+            <attr name="distance0">
+                <double>23.0</double>
+            </attr>
+        </edge>
+        <edge from="7" to="23">
+            <attr name="frequency">
+                <int>1</int>
+            </attr>
+            <attr name="type0">
+                <double>2</double>
+            </attr>
+            <attr name="distance0">
+                <double>26.0</double>
+            </attr>
+        </edge>
+        <edge from="8" to="10">
+            <attr name="frequency">
+                <int>1</int>
+            </attr>
+            <attr name="type0">
+                <double>2</double>
+            </attr>
+            <attr name="distance0">
+                <double>45.0</double>
+            </attr>
+        </edge>
+        <edge from="18" to="16">
+            <attr name="frequency">
+                <int>1</int>
+            </attr>
+            <attr name="type0">
+                <double>2</double>
+            </attr>
+            <attr name="distance0">
+                <double>23.0</double>
+            </attr>
+        </edge>
+        <edge from="21" to="4">
+            <attr name="frequency">
+                <int>1</int>
+            </attr>
+            <attr name="type0">
+                <double>2</double>
+            </attr>
+            <attr name="distance0">
+                <double>40.0</double>
+            </attr>
+        </edge>
+        <edge from="1" to="13">
+            <attr name="frequency">
+                <int>1</int>
+            </attr>
+            <attr name="type0">
+                <double>3</double>
+            </attr>
+            <attr name="distance0">
+                <double>45.0</double>
+            </attr>
+        </edge>
+        <edge from="2" to="17">
+            <attr name="frequency">
+                <int>1</int>
+            </attr>
+            <attr name="type0">
+                <double>3</double>
+            </attr>
+            <attr name="distance0">
+                <double>33.0</double>
+            </attr>
+        </edge>
+        <edge from="3" to="4">
+            <attr name="frequency">
+                <int>1</int>
+            </attr>
+            <attr name="type0">
+                <double>3</double>
+            </attr>
+            <attr name="distance0">
+                <double>39.0</double>
+            </attr>
+        </edge>
+        <edge from="5" to="22">
+            <attr name="frequency">
+                <int>1</int>
+            </attr>
+            <attr name="type0">
+                <double>3</double>
+            </attr>
+            <attr name="distance0">
+                <double>39.0</double>
+            </attr>
+        </edge>
+        <edge from="7" to="22">
+            <attr name="frequency">
+                <int>1</int>
+            </attr>
+            <attr name="type0">
+                <double>3</double>
+            </attr>
+            <attr name="distance0">
+                <double>36.0</double>
+            </attr>
+        </edge>
+        <edge from="8" to="7">
+            <attr name="frequency">
+                <int>1</int>
+            </attr>
+            <attr name="type0">
+                <double>3</double>
+            </attr>
+            <attr name="distance0">
+                <double>47.0</double>
+            </attr>
+        </edge>
+        <edge from="9" to="7">
+            <attr name="frequency">
+                <int>1</int>
+            </attr>
+            <attr name="type0">
+                <double>3</double>
+            </attr>
+            <attr name="distance0">
+                <double>69.0</double>
+            </attr>
+        </edge>
+        <edge from="10" to="7">
+            <attr name="frequency">
+                <int>1</int>
+            </attr>
+            <attr name="type0">
+                <double>3</double>
+            </attr>
+            <attr name="distance0">
+                <double>92.0</double>
+            </attr>
+        </edge>
+        <edge from="11" to="13">
+            <attr name="frequency">
+                <int>1</int>
+            </attr>
+            <attr name="type0">
+                <double>3</double>
+            </attr>
+            <attr name="distance0">
+                <double>31.0</double>
+            </attr>
+        </edge>
+        <edge from="14" to="12">
+            <attr name="frequency">
+                <int>1</int>
+            </attr>
+            <attr name="type0">
+                <double>3</double>
+            </attr>
+            <attr name="distance0">
+                <double>37.0</double>
+            </attr>
+        </edge>
+        <edge from="15" to="13">
+            <attr name="frequency">
+                <int>1</int>
+            </attr>
+            <attr name="type0">
+                <double>3</double>
+            </attr>
+            <attr name="distance0">
+                <double>37.0</double>
+            </attr>
+        </edge>
+        <edge from="18" to="2">
+            <attr name="frequency">
+                <int>1</int>
+            </attr>
+            <attr name="type0">
+                <double>3</double>
+            </attr>
+            <attr name="distance0">
+                <double>42.0</double>
+            </attr>
+        </edge>
+        <edge from="21" to="6">
+            <attr name="frequency">
+                <int>1</int>
+            </attr>
+            <attr name="type0">
+                <double>3</double>
+            </attr>
+            <attr name="distance0">
+                <double>50.0</double>
+            </attr>
+        </edge>
+        <edge from="22" to="24">
+            <attr name="frequency">
+                <int>1</int>
+            </attr>
+            <attr name="type0">
+                <double>3</double>
+            </attr>
+            <attr name="distance0">
+                <double>25.0</double>
+            </attr>
+        </edge>
+        <edge from="11" to="12">
+            <attr name="frequency">
+                <int>2</int>
+            </attr>
+            <attr name="type0">
+                <double>1</double>
+            </attr>
+            <attr name="distance0">
+                <double>12.0</double>
+            </attr>
+            <attr name="type1">
+                <double>4</double>
+            </attr>
+            <attr name="distance1">
+                <double>0.0</double>
+            </attr>
+        </edge>
+        <edge from="12" to="13">
+            <attr name="frequency">
+                <int>2</int>
+            </attr>
+            <attr name="type0">
+                <double>2</double>
+            </attr>
+            <attr name="distance0">
+                <double>19.0</double>
+            </attr>
+            <attr name="type1">
+                <double>4</double>
+            </attr>
+            <attr name="distance1">
+                <double>0.0</double>
+            </attr>
+        </edge>
+        <edge from="13" to="14">
+            <attr name="frequency">
+                <int>2</int>
+            </attr>
+            <attr name="type0">
+                <double>1</double>
+            </attr>
+            <attr name="distance0">
+                <double>18.0</double>
+            </attr>
+            <attr name="type1">
+                <double>4</double>
+            </attr>
+            <attr name="distance1">
+                <double>0.0</double>
+            </attr>
+        </edge>
+        <edge from="2" to="16">
+            <attr name="frequency">
+                <int>2</int>
+            </attr>
+            <attr name="type0">
+                <double>1</double>
+            </attr>
+            <attr name="distance0">
+                <double>19.0</double>
+            </attr>
+            <attr name="type1">
+                <double>4</double>
+            </attr>
+            <attr name="distance1">
+                <double>0.0</double>
+            </attr>
+        </edge>
+        <edge from="16" to="17">
+            <attr name="frequency">
+                <int>2</int>
+            </attr>
+            <attr name="type0">
+                <double>1</double>
+            </attr>
+            <attr name="distance0">
+                <double>14.0</double>
+            </attr>
+            <attr name="type1">
+                <double>4</double>
+            </attr>
+            <attr name="distance1">
+                <double>0.0</double>
+            </attr>
+        </edge>
+        <edge from="17" to="18">
+            <attr name="frequency">
+                <int>2</int>
+            </attr>
+            <attr name="type0">
+                <double>1</double>
+            </attr>
+            <attr name="distance0">
+                <double>9.0</double>
+            </attr>
+            <attr name="type1">
+                <double>5</double>
+            </attr>
+            <attr name="distance1">
+                <double>0.0</double>
+            </attr>
+        </edge>
+        <edge from="18" to="3">
+            <attr name="frequency">
+                <int>1</int>
+            </attr>
+            <attr name="type0">
+                <double>4</double>
+            </attr>
+            <attr name="distance0">
+                <double>0.0</double>
+            </attr>
+        </edge>
+        <edge from="3" to="19">
+            <attr name="frequency">
+                <int>2</int>
+            </attr>
+            <attr name="type0">
+                <double>1</double>
+            </attr>
+            <attr name="distance0">
+                <double>17.0</double>
+            </attr>
+            <attr name="type1">
+                <double>4</double>
+            </attr>
+            <attr name="distance1">
+                <double>0.0</double>
+            </attr>
+        </edge>
+        <edge from="19" to="20">
+            <attr name="frequency">
+                <int>2</int>
+            </attr>
+            <attr name="type0">
+                <double>1</double>
+            </attr>
+            <attr name="distance0">
+                <double>12.0</double>
+            </attr>
+            <attr name="type1">
+                <double>4</double>
+            </attr>
+            <attr name="distance1">
+                <double>0.0</double>
+            </attr>
+        </edge>
+        <edge from="5" to="6">
+            <attr name="frequency">
+                <int>2</int>
+            </attr>
+            <attr name="type0">
+                <double>2</double>
+            </attr>
+            <attr name="distance0">
+                <double>26.0</double>
+            </attr>
+            <attr name="type1">
+                <double>4</double>
+            </attr>
+            <attr name="distance1">
+                <double>0.0</double>
+            </attr>
+        </edge>
+        <edge from="6" to="22">
+            <attr name="frequency">
+                <int>2</int>
+            </attr>
+            <attr name="type0">
+                <double>1</double>
+            </attr>
+            <attr name="distance0">
+                <double>13.0</double>
+            </attr>
+            <attr name="type1">
+                <double>4</double>
+            </attr>
+            <attr name="distance1">
+                <double>0.0</double>
+            </attr>
+        </edge>
+        <edge from="22" to="23">
+            <attr name="frequency">
+                <int>2</int>
+            </attr>
+            <attr name="type0">
+                <double>1</double>
+            </attr>
+            <attr name="distance0">
+                <double>10.0</double>
+            </attr>
+            <attr name="type1">
+                <double>4</double>
+            </attr>
+            <attr name="distance1">
+                <double>0.0</double>
+            </attr>
+        </edge>
+        <edge from="23" to="24">
+            <attr name="frequency">
+                <int>2</int>
+            </attr>
+            <attr name="type0">
+                <double>2</double>
+            </attr>
+            <attr name="distance0">
+                <double>15.0</double>
+            </attr>
+            <attr name="type1">
+                <double>4</double>
+            </attr>
+            <attr name="distance1">
+                <double>0.0</double>
+            </attr>
+        </edge>
+        <edge from="8" to="9">
+            <attr name="frequency">
+                <int>2</int>
+            </attr>
+            <attr name="type0">
+                <double>1</double>
+            </attr>
+            <attr name="distance0">
+                <double>22.0</double>
+            </attr>
+            <attr name="type1">
+                <double>4</double>
+            </attr>
+            <attr name="distance1">
+                <double>0.0</double>
+            </attr>
+        </edge>
+    </graph>
+</gxl>

@@ -1,0 +1,89 @@
+<?xml version="1.0"?>
+<gxl>
+    <graph id="pdb1i8g" label="5" edgeids="true" edgemode="undirected">
+        <node id="1">
+            <attr name="type">
+                <int>1</int>
+            </attr>
+            <attr name="aaLength">
+                <int>5</int>
+            </attr>
+            <attr name="sequence">
+                <int>WEKRM</int>
+            </attr>
+            <attr name="x">
+                <double>-0.081040275118215183</double>
+            </attr>
+            <attr name="y">
+                <double>-0.84193886434422049</double>
+            </attr>
+        </node>
+        <node id="2">
+            <attr name="type">
+                <int>1</int>
+            </attr>
+            <attr name="aaLength">
+                <int>5</int>
+            </attr>
+            <attr name="sequence">
+                <int>VYYFN</int>
+            </attr>
+            <attr name="x">
+                <double>0.77044064795178913</double>
+            </attr>
+            <attr name="y">
+                <double>0.35071057268105194</double>
+            </attr>
+        </node>
+        <node id="3">
+            <attr name="type">
+                <int>1</int>
+            </attr>
+            <attr name="aaLength">
+                <int>3</int>
+            </attr>
+            <attr name="sequence">
+                <int>ASQ</int>
+            </attr>
+            <attr name="x">
+                <double>-0.68816452385630811</double>
+            </attr>
+            <attr name="y">
+                <double>0.49178996438486261</double>
+            </attr>
+        </node>
+        <edge from="1" to="2">
+            <attr name="frequency">
+                <int>1</int>
+            </attr>
+            <attr name="type0">
+                <double>1</double>
+            </attr>
+            <attr name="distance0">
+                <double>11.0</double>
+            </attr>
+        </edge>
+        <edge from="2" to="3">
+            <attr name="frequency">
+                <int>1</int>
+            </attr>
+            <attr name="type0">
+                <double>1</double>
+            </attr>
+            <attr name="distance0">
+                <double>9.0</double>
+            </attr>
+        </edge>
+        <edge from="1" to="3">
+            <attr name="frequency">
+                <int>1</int>
+            </attr>
+            <attr name="type0">
+                <double>2</double>
+            </attr>
+            <attr name="distance0">
+                <double>20.0</double>
+            </attr>
+        </edge>
+    </graph>
+</gxl>

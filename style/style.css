@@ -1,0 +1,239 @@
+/* Properties of the entire application */
+body
+{
+	height: 100vh;
+	margin:auto;
+	background-color: #f1f1f1;
+}
+
+#welcome_container
+{
+	width: 60%;
+	height:auto;
+	text-align: center;
+	margin: auto;
+}
+
+#welcome_image
+{
+	height:50vh;
+	margin:auto;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+#welcome_text
+{
+	font-family: 'PT Sans Narrow',sans-serif;
+	font-weight: normal;
+	/*text-transform: uppercase;*/
+	color: #000000;	
+	margin-top: 20px;
+}
+
+#welcome_instruction
+{
+	font-family: 'PT Sans Narrow',sans-serif;
+	font-weight: normal;
+	color: #000000;	
+	margin: 0px;	
+}
+
+.dataset_thumbnail
+{
+	width: 15%;
+    margin-right: 10px;
+    border: 2px solid red;
+    padding:2px;	
+	cursor: pointer;
+}
+
+/* Whole panel */
+#wholePanel
+{
+	width:90%;
+	height:90vh;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+/* Left panel */
+#left-container
+{
+	display:block;
+	position: relative;
+	float: left;
+	width: 18%;
+	height: 100%;
+	margin-top:25px;
+}
+
+/* Controls container */
+#controls-container button
+{
+	width: 49%;
+	margin-top: 5px;
+	margin-bottom: 10px;
+	margin-right: auto;
+}
+
+#options-container
+{
+	width: 100%;
+	margin-left: 2px;
+	text-align: center;
+}
+
+
+#matchings + label
+{
+	 font-family: 'Tahoma',sans-serif; 
+	 font-weight: normal;
+	 font-size: 15px;
+}
+
+/* Misclassified panel */
+#misclassified-container
+{
+	display:block;
+	position: relative;
+	float: left;
+	width: 100%;
+	height: 92%;
+	border: 2px solid black;
+	margin-top:10px;
+	background-color: #ffffff;
+	overflow-y:auto;
+}
+
+ul
+{
+	padding: 1px;
+	margin-top: 1px;
+
+}
+
+li
+{
+	display: block;
+	height: 120px;
+	line-height: 40px;
+	text-align: center;
+	vertical-align: middle;
+	font-size: 25px;
+	margin-bottom: 1px;
+}
+
+li img
+{
+	margin-right: 10px;
+	margin-left: 10px;
+}
+
+li:hover
+{
+	color: white;
+	background-color: black;
+}
+
+li.selected
+{
+	color: white;
+	background-color: black;
+	opacity: 0.5;
+}
+
+
+/* Graph panel */
+#graph-container
+{
+	display:block;
+	position: relative;
+	float: right;
+	width: 80%;
+	height: 100%;
+	border: 2px solid black;
+	margin-top:25px;
+	background-color: #ffffff;
+}
+
+#graph
+{
+	display:block;
+	width: 98%;
+	height: 98%;
+	position: relative;
+	z-index: 1;
+	padding: 5px;
+	text-align: left;
+}
+
+#graph canvas
+{
+	height: 100%;
+	width: 100%;
+}
+
+
+/* Overlay About */
+/* http://www.w3schools.com/howto/howto_js_fullscreen_overlay.asp */
+
+#logos
+{
+
+	text-align: center;
+	width: 50%;
+	margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 40px;
+    margin-top: 20px;
+}
+
+.logo
+{
+	border: 1px solid black;
+	width: 20%;
+	margin-right: 15px;
+}
+
+ /* Background) */
+.overlay {
+    /* Height & width depends on how you want to reveal the overlay (see JS below) */   
+    height: 100%;
+    width: 0;
+    position: fixed; /* Stay in place */
+    z-index: 1; /* Sit on top */
+    left: 0;
+    top: 0;
+    background-color: rgb(255,255,255); /* White fallback color */
+    background-color: rgba(255,255,255, 0.95); /* White w/opacity */
+    overflow-x: hidden; /* Disable horizontal scroll */
+    transition: 0.5s; /* 0.5 second transition effect to slide in or slide down the overlay (height or width, depending on reveal) */
+}
+
+/* Position the content inside the overlay */
+.overlay-content {
+    position: relative;
+    top: 25%; /* 25% from the top */
+    width: 100%; /* 100% width */
+    text-align: center; /* Centered text/links */
+    margin-top: 30px; /* 30px top margin to avoid conflict with the close button on smaller screens */
+}
+
+/* Position the close button (top right corner) */
+.overlay .closebtn {
+    position: absolute;
+    top: 20px;
+    right: 45px;
+    font-size: 60px;
+}
+
+/* When the height of the screen is less than 450 pixels, change the font-size of the links and position the close button again, so they don't overlap */
+@media screen and (max-height: 450px) {
+    .overlay a {font-size: 20px}
+    .overlay .closebtn {
+        font-size: 40px;
+        top: 15px;
+        right: 35px;
+    }
+}

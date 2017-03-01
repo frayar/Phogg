@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="ISO-8859-1">
+		
+		<!-- Title -->
+		<title>Photo(Graph) Gallery</title>
+		
+		<!-- Style sheet -->
+		<link href="style/style.css" rel="stylesheet" />
+		
+		<!-- Script-->
+		<script src="scripts/main.js"></script>
+	</head>
+	
+	
+	<body>
+		<!-- Main part of the page -->
+		<div id="welcome_container">
+			<h2 id="welcome_text"> Welcome to the Photo(Graph) Gallery </h2>
+			<img id="welcome_image" src="images/phogg_2.png" title="Click me to know more!" onclick="openAbout()" /> 
+			<br/>
+			<h3 id="welcome_instruction"> Select a data set to visualise misclassified graphs:</h3>
+			<br/>
+			<img id="grec" class="dataset_thumbnail" src="images/image1_1.png" title="GREC" onclick="enter('grec')" />
+			<img id="protein" class="dataset_thumbnail" src="images/enzyme_589.png" title="PROTEIN" onclick="enter('protein')" />
+			<img id="mao" class="dataset_thumbnail" src="images/molecule42.png" title="MAO" onclick="enter('mao')" />
+		</div>	
+
+		<!-- The About/help overlay -->
+		<div id="about-container" class="overlay">
+			<!-- Button to close the overlay navigation -->
+ 			<a href="javascript:void(0)" class="closebtn" onclick="closeAbout()">&times;</a>
+
+			 <!-- Overlay content -->
+			 <div class="overlay-content">
+					<div id="logos">
+						<a href="http://www.univ-tours.fr/" target="_blank"><img class="logo" src="images/logoUnivTours.jpg" alt="Tours university logo"/></a>
+						<a href="http://li.univ-tours.fr/" target="_blank"><img class="logo" src="images/logo_LI.jpg" alt="Computer Science lab logo"/></a>
+						<a href="http://www.rfai.li.univ-tours.fr/" target="_blank"><img class="logo" src="images/logo_RFAI.jpg" alt="RFAI team logo"/></a>
+					</div>
+					<p>
+						The Photo(Graph) Gallery platform has been developed by <a href="http://frederic.rayar.free.fr/" target="_blank">Fr&eacute;d&eacute;ric RAYAR</a>.<br/> 
+						Contact: <a href="mailto:frederic.rayar@univ-tours.fr">frederic.rayar {at} univ-tours {dot} fr</a>
+					</p>
+					<p>
+						This platform allows to display the misclassification and the associated graph matchings.
+					</p>
+		</div>
+		
+	</body>
+</html>
